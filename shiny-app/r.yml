@@ -1,0 +1,16 @@
+---
+packages:
+  - packages:
+    - name: shiny
+    - name: shinyjs
+    - name: shinydisconnect
+    - name: shinybusy
+    - name: bslib
+    - name: bsicons
+    - name: tidyverse
+    - name: htmltools
+    - name: sf
+    - name: leaflet
+    - name: httr
+    - name: reactR
+    - name: epaRShinyTemplate
