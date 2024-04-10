@@ -9,6 +9,7 @@ packages:
     - name: bsicons
     - name: tidyverse
     - name: htmltools
+    - name: jsonlite
     - name: sf
     - name: leaflet
     - name: httr
