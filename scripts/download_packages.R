@@ -30,7 +30,7 @@ plfrm <- paste(getRversion(), R.version["platform"],
 options(HTTPUserAgent = sprintf("R/%s R (%s)", getRversion(), plfrm))
 
 # Packages that should be pulled from GitHub
-github_packages_list <- list(c("TADA", "USEPA/TADA"), c("capture", "dreamRs/capture"))
+github_packages_list <- list(c("epaRShinyTemplate", "USEPA/TADepaRShinyTemplateA"))
 
 # Packages not available as binary from Posit
 packages_needing_to_be_built <- c("sf")
