@@ -316,7 +316,7 @@ Version: 1.0.2
 Imports: htmltools, htmlwidgets, reactR
 Suggests: covr
 License: MIT + file LICENSE
-MD5sum: 147466ddeca458cb5686748db17acb88
+MD5sum: bb05ea8a9040cf056dd56d827d844ae6
 NeedsCompilation: no
 
 Package: evaluate
@@ -1049,7 +1049,7 @@ Suggests: blob, nanoarrow, covr, dplyr (>= 1.0.0), ggplot2, knitr,
         testthat (>= 3.0.0), tibble (>= 1.4.1), tidyr (>= 1.2.0),
         tidyselect (>= 1.0.0), tmap (>= 2.0), vctrs, wk (>= 0.9.0)
 License: GPL-2 | MIT + file LICENSE
-MD5sum: 4d45a0778c2bc36c6c123d5724ce949c
+MD5sum: 65c4f433a534486e8f6ae234c6540f5d
 NeedsCompilation: yes
 
 Package: shiny
